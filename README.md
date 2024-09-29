@@ -1,9 +1,5 @@
 # Coffee Shop Management System
 
-## Overview
-
-The **Coffee Shop Management System** is a comprehensive software solution designed to streamline the operations of a coffee shop, including inventory management, order processing, employee management, and financial tracking. Developed using Java and SQL Server, the system automates various business processes, providing an efficient and user-friendly experience for both staff and management.
-
 ## Features
 
 - **Inventory Management**: Track and control stock levels, set up automatic reordering, and monitor expiration dates for ingredients.
